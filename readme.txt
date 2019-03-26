@@ -4,3 +4,6 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 
 hahahah
+
+
+one two three git log --pretty=oneline git reset --hard commit_id  git reflog
