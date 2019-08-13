@@ -10,3 +10,5 @@ hahahah
 one two three git log --pretty=oneline git reset --hard commit_id  git reflog
 
 retry
+
+createing  a new branch is quick
